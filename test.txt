@@ -1,1 +1,0 @@
-nunique() give out number of values
